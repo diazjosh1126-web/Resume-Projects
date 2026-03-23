@@ -32,7 +32,3 @@ A banking simulation program designed using object-oriented programming principl
 - C
 - C++
 - GCC / G++ Compiler
-
----
-
-## Project Structure
